@@ -1,5 +1,5 @@
 
-![fullstack](/images/ff-logo.png)
+![logo](/images/logo.png)
 
 <h1 align="center">Hi 👋, I'm Juan Fernandez Diaz</h1>
 <h3 align="center">Fullstack Developer</h3>
